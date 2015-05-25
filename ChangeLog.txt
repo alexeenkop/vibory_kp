@@ -1,0 +1,8 @@
+ChangeLog ver 1.0
+-first version
+-some bugs
+
+ChangeLog ver 1.1
+-second version
+-fix bugs from ver 1.0
+-bug diagram PP
