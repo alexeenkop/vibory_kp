@@ -499,9 +499,6 @@ public class Main extends JFrame {
 	public Diagram getDiagram_regres() {
 		return diagram_regres;
 	}
-//	public TransMonitorView getTransMonitorView() {
-//		return transMonitorView;
-//	}
 	public Diagram getDiagram_3() {
 		return diagram_3;
 	}

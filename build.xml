@@ -60,6 +60,5 @@
 		
 		<target name="doc">
 		    <javadoc sourcepath="src" destdir="doc"/>
-		  </target>
-		
+		</target>		
 	</project>
